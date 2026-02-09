@@ -1,7 +1,6 @@
 # Projet Bioinformatique
 ## Realisé par :
 - MOKHTARI Mokrane
-- BENANI Dalya
 
 Ce projet est une série de scripts Python destinés à l'analyse de séquences génétiques, en particulier pour l'identification de motifs de liaison de facteurs de transcription (TFBS) dans des séquences d'ADN. Le projet inclut plusieurs modules, chacun ayant des fonctionnalités spécifiques pour le traitement et l'analyse des données biologiques.
 
