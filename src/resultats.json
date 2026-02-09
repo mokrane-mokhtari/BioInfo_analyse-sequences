@@ -1,0 +1,82 @@
+[
+    {
+        "window_num": 1,
+        "tf_name": "SRF",
+        "window_range": "[0:-382]",
+        "window_score": -16.420988082885742,
+        "num_occurrences": 1,
+        "occurrences": [
+            {
+                "occurrence_num": 1,
+                "mrna_id": "NM_000451",
+                "tf_name": "SRF",
+                "position": -402,
+                "score": -16.420988082885742
+            }
+        ]
+    },
+    {
+        "window_num": 2,
+        "tf_name": "SRF",
+        "window_range": "[0:-378]",
+        "window_score": -10.660234451293945,
+        "num_occurrences": 1,
+        "occurrences": [
+            {
+                "occurrence_num": 1,
+                "mrna_id": "NM_000451",
+                "tf_name": "SRF",
+                "position": -398,
+                "score": -10.660234451293945
+            }
+        ]
+    },
+    {
+        "window_num": 3,
+        "tf_name": "SRF",
+        "window_range": "[0:-338]",
+        "window_score": -9.453218460083008,
+        "num_occurrences": 1,
+        "occurrences": [
+            {
+                "occurrence_num": 1,
+                "mrna_id": "NM_000451",
+                "tf_name": "SRF",
+                "position": -358,
+                "score": -9.453218460083008
+            }
+        ]
+    },
+    {
+        "window_num": 4,
+        "tf_name": "SRF",
+        "window_range": "[0:-330]",
+        "window_score": -16.514118194580078,
+        "num_occurrences": 1,
+        "occurrences": [
+            {
+                "occurrence_num": 1,
+                "mrna_id": "NM_000451",
+                "tf_name": "SRF",
+                "position": -350,
+                "score": -16.514118194580078
+            }
+        ]
+    },
+    {
+        "window_num": 5,
+        "tf_name": "SRF",
+        "window_range": "[0:-295]",
+        "window_score": -16.75065040588379,
+        "num_occurrences": 1,
+        "occurrences": [
+            {
+                "occurrence_num": 1,
+                "mrna_id": "NM_000451",
+                "tf_name": "SRF",
+                "position": -315,
+                "score": -16.75065040588379
+            }
+        ]
+    }
+]
